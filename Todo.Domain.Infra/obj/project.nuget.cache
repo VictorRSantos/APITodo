@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9Z06R7T6eAA4udGxpzVfOlYwq9XN+z/59wQTlKRBoEF+aMqMVkQzDytyLzgrAfOO5MPQkYv1Nue+3T1IobhT7Q==",
+  "dgSpecHash": "APxejdHjuJTYyRFwqC2f4L0oobKxiCwDGmUxxlZBojaWg4fH04NQCYRCzRu5JgwAtGFxaQ21N/5aLFTI/SARFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.dossantos\\Documents\\Todo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
+  "projectFilePath": "S:\\Balta.io\\ApiTodo\\Todo.Domain.Infra\\Todo.Domain.Infra.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\victor.dossantos\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+    "C:\\Users\\Victor\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
   ],
   "logs": []
 }

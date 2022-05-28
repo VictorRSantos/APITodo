@@ -33,24 +33,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\victor.dossantos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Victor\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.dossantos\\Documents\\Todo\\Todo.Domain\\Todo.Domain.csproj",
+      "projectUniqueName": "S:\\Balta.io\\ApiTodo\\Todo.Domain\\Todo.Domain.csproj",
       "projectName": "Todo.Domain",
-      "projectPath": "C:\\Users\\victor.dossantos\\Documents\\Todo\\Todo.Domain\\Todo.Domain.csproj",
-      "packagesPath": "C:\\Users\\victor.dossantos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.dossantos\\Documents\\Todo\\Todo.Domain\\obj\\",
+      "projectPath": "S:\\Balta.io\\ApiTodo\\Todo.Domain\\Todo.Domain.csproj",
+      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
+      "outputPath": "S:\\Balta.io\\ApiTodo\\Todo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\victor.dossantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

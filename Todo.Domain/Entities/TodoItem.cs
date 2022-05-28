@@ -6,7 +6,7 @@ namespace Todo.Domain.Entities
     {
 
         // Construtor
-        public TodoItem(string title, bool done, DateTime date, string user)
+        public TodoItem(string title, string user, DateTime date)
         {
             Title = title;
             Done = false;
