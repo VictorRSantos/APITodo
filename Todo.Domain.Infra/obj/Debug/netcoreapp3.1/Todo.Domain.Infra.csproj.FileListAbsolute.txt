@@ -12,6 +12,8 @@ C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Infra\obj\Debug\netcoreapp3
 C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
 C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.deps.json
+S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.json
+S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.dev.json
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.dll
@@ -24,3 +26,4 @@ S:\Balta.io\ApiTodo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CopyComplete
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
+S:\Balta.io\ApiTodo\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.genruntimeconfig.cache
