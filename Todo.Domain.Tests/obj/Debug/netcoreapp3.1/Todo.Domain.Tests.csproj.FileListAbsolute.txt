@@ -100,13 +100,13 @@ C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3
 C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
 C:\Users\victor.dossantos\Documents\Todo\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.genruntimeconfig.cache
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
-S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\testhost.exe
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
-S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.deps.json
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.runtimeconfig.json
 S:\Balta.io\ApiTodo\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.runtimeconfig.dev.json
