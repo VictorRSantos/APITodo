@@ -18,3 +18,6 @@ S:\Balta.io\ApiTodo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo
 S:\Balta.io\ApiTodo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csproj.CoreCompileInputs.cache
 S:\Balta.io\ApiTodo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
 S:\Balta.io\ApiTodo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb
+S:\Balta.io\ApiTodo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.runtimeconfig.json
+S:\Balta.io\ApiTodo\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.runtimeconfig.dev.json
+S:\Balta.io\ApiTodo\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.genruntimeconfig.cache

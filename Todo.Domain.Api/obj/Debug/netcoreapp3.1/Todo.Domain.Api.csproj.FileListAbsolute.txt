@@ -79,3 +79,12 @@ S:\Balta.io\ApiTodo\Todo.Domain.Api\obj\Debug\netcoreapp3.1\Todo.Domain.Api.cspr
 S:\Balta.io\ApiTodo\Todo.Domain.Api\obj\Debug\netcoreapp3.1\Todo.Domain.Api.dll
 S:\Balta.io\ApiTodo\Todo.Domain.Api\obj\Debug\netcoreapp3.1\Todo.Domain.Api.pdb
 S:\Balta.io\ApiTodo\Todo.Domain.Api\obj\Debug\netcoreapp3.1\Todo.Domain.Api.genruntimeconfig.cache
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+S:\Balta.io\ApiTodo\Todo.Domain.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
